@@ -10,7 +10,6 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 
 # Solution:
 
-  * On logginf in to the remote server, we can see on using 'ls' command, there is only one file named 'readme' in it.
+  * On logging in to the remote server, we can see on using 'ls' command, there is only one file named 'readme' in it.
   * On using 'cat' command on the file by "cat readme", we can see a congratulations message and a password as well.
-
-![Screenshot from 2025-07-07 23-14-01](https://github.com/user-attachments/assets/cd0f676c-5f62-4b1c-b453-3afeb88f5ab8)
+  * ![Screenshot from 2025-07-07 23-18-42](https://github.com/user-attachments/assets/fa9ea321-1e34-4451-9d4c-95b4a16ea8d9)
