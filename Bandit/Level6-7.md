@@ -7,6 +7,8 @@ owned by user bandit7
 owned by group bandit6
 33 bytes in size
 
+# Solution: 
+
   * With the following information, we can filter out our required file with the given properties.
   * Also note that the question says that the file lies somewhere on the server, not necessarily in the bandit6 directory. So it is better to find from the root directory itself. Then our search would be across the whole server.
   * So my first plan of action: filter from root!!
